@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書經衷論
-#+DATE: 2015-09-23 09:36:21
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:03:58.189914
+#+PROPERTY: ID KR1b0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0056_WYG_001-1a>¶
 欽定四庫全書¶
 　書經𠂻論卷一　　　　　大學士張英撰¶
@@ -434,4 +436,3 @@
 　¶
 　¶
 　書經衷論卷一¶
-
